@@ -7,11 +7,11 @@ const body = document.querySelector('body');
 buttonConteiner.setAttribute('style', 'text-align: center;')
 startButton.setAttribute(
   'style',
-  'width: 20%; min-width: 60px; height: 50px; font-size: 20px; border: none; cursor: pointer;'
+  'width: 15%; min-width: 60px; height: 50px; font-size: 20px; border: none; cursor: pointer;'
 );
 stopButton.setAttribute(
   'style',
-  'width: 20%; min-width: 60px; height: 50px; font-size: 20px; border: none; cursor: pointer;'
+  'width: 15%; min-width: 60px; height: 50px; font-size: 20px; border: none; cursor: pointer;'
 );
 stopButton.setAttribute('disabled', true);
 

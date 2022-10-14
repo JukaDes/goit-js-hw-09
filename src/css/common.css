@@ -27,6 +27,10 @@ img {
   justify-content: center;
 }
 
+#datetime-picker {
+  margin-right: 10px;
+}
+
 .timer {
   display: flex;
   justify-content: space-around;
